@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gerard!</h1>
 <h3 align="center">Originally from Puerto Rico, welcome to my programming world!</h3>
 
-- 🔭 I’m currently working on [Interview Lens App](interviewlens)
+- 🔭 I’m currently working on [Interview Lens App]([interviewlens](https://interviewlens.netlify.app/))
 
 - 🌱 I’m currently learning **SQL, Docker and Python**
 
