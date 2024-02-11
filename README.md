@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Gerard!</h1>
 <h3 align="center">Originally from Puerto Rico, welcome to my programming world!</h3>
 
-<p align="left"> <a href="https://twitter.com/gemelendezpr" target="blank"><img src="https://img.shields.io/twitter/follow/gemelendezpr?logo=twitter&style=for-the-badge" alt="gemelendezpr" /></a> </p>
-
 - 🔭 I’m currently working on [Interview Lens App](interviewlens)
 
 - 🌱 I’m currently learning **SQL, Docker and Python**
