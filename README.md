@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [https://docs.google.com/document/d/15CRfFuHQmgQ65lH2QMGhgFVV8lrpP1SQeWxVLpt1ybI/edit?usp=sharing](https://docs.google.com/document/d/15CRfFuHQmgQ65lH2QMGhgFVV8lrpP1SQeWxVLpt1ybI/edit?usp=sharing)
 
-- ⚡ Fun fact: **Despite growing up near the beautiful beaches of Puerto Rico and studying visual arts since childhood, here's a quirky twist—I've crafted and designed a surfboard from scratch, exploring every artistic detail. Surprisingly, I've never ridden a wave in my life! It seems my artistic journey has taken me to unexpected shores, and the surfboard remains a unique piece of my creative repertoire**
+- ⚡ Fun fact: **Despite growing up near the beautiful beaches of Puerto Rico and studying visual arts since childhood, here's a quirky twist—I've crafted and designed a surfboard from scratch, exploring every artistic detail. Surprisingly, I've never ridden a wave in my life! It seems my artistic journey has taken me to unexpected shores, and the surfboard remains a unique piece of my creative repertoire.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
