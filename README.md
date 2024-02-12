@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gerardomelendezpr/](https://www.linkedin.com/in/gerardomelendezpr/)
 
-- 💬 Ask me about ** React, JavaScript, Node, and the latest tech trends! Whether you're curious about front-end magic, back-end wizardry, or the tech scene in Puerto Rico, I'm here to share insights and knowledge.**
+- 💬 Ask me about **React, JavaScript, Node, and the latest tech trends! Whether you're curious about front-end magic, back-end wizardry, or the tech scene in Puerto Rico, I'm here to share insights and knowledge.**
 
 - 📫 How to reach me: **gerardomelendez05@gmail.com**
 
