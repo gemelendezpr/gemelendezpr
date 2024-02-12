@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Gerard!</h1>
 <h3 align="center">Originally from 🇵🇷, welcome to my programming world!</h3>
 
-- 🔭 I’m currently working on ([Interview Lens App](https://interviewlens.netlify.app/))
+- 🚧 I’m currently working on ([Interview Lens App](https://interviewlens.netlify.app/))
 
-- 🌱 I’m currently learning **SQL, Docker and Python**.
+- 📚 I’m currently learning **SQL, Docker and Python**.
 
-- 👯 I’m looking to collaborate on **open source projects**.
+- 👥 I’m looking to collaborate on **open source projects**.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gerardomelendezpr/](https://www.linkedin.com/in/gerardomelendezpr/)
 
@@ -19,13 +19,13 @@
 
 - ⚡ Fun fact: **Despite growing up near the beautiful beaches of Puerto Rico and studying visual arts since childhood, here's a quirky twist—I've crafted and designed a surfboard from scratch, exploring every artistic detail. Surprisingly, I've never ridden a wave in my life! It seems my artistic journey has taken me to unexpected shores, and the surfboard remains a unique piece of my creative repertoire.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/gemelendezpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gemelendezpr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gerardomelendezpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerardomelendezpr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️Languages and Tools:</h3>
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postman,git,mongodb,materialui,vscode" /> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemelendezpr&layout=pie&theme=transparent" alt="gemelendezpr" /></p>
