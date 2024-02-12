@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postman,git,mongodb,materialui" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postman,git,mongodb,materialui,vscode" /> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemelendezpr&layout=pie&theme=transparent" alt="gemelendezpr" /></p>
 
