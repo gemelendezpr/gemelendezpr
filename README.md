@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on ([Interview Lens App](https://interviewlens.netlify.app/))
 
-- 🌱 I’m currently learning **SQL, Docker and Python**
+- 🌱 I’m currently learning **SQL, Docker and Python**.
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects**.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gerardomelendezpr/](https://www.linkedin.com/in/gerardomelendezpr/)
 
