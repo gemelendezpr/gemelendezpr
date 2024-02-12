@@ -31,5 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemelendezpr&show_icons=true&locale=en&layout=compact&theme=transparent" alt="gemelendezpr" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemelendezpr&" alt="gemelendezpr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemelendezpr&theme=transparent" alt="gemelendezpr" /></p>
 
