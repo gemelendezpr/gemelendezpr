@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Gerard!</h1>
 <h3 align="center">Originally from 🇵🇷, welcome to my programming world!</h3>
 
-- 🚧 I’m currently working on ([Interview Lens App](https://interviewlens.netlify.app/))
+- 🚧 I’m currently working on ([JSH-Construction-Corp](https://github.com/gemelendezpr/jsh-construction-corp-client))
 
-- 📚 I’m currently learning **SQL, Docker and Python**.
+- 📚 I’m currently learning **SQL and Docker**.
 
 - 👥 I’m looking to collaborate on **open source projects**.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gerardomelendezpr/](https://www.linkedin.com/in/gerardomelendezpr/)
 
-- 💬 Ask me about **React, JavaScript, Node, and the latest tech trends! Whether you're curious about front-end magic, back-end wizardry, or the tech scene in Puerto Rico, I'm here to share insights and knowledge.**
+- 💬 Ask me about **React, JavaScript, Node, and the latest tech trends! Whether you're curious about front-end, back-end, or the tech scene in Puerto Rico, I'm here to share insights and knowledge.**
 
-- ⚡ Fun fact: **Despite growing up near the beautiful beaches of Puerto Rico and studying visual arts since childhood, here's a quirky twist—I've crafted and designed a surfboard from scratch, exploring every artistic detail. Surprisingly, I've never ridden a wave in my life! It seems my artistic journey has taken me to unexpected shores, and the surfboard remains a unique piece of my creative repertoire.**
+- ⚡ Fun fact: **Despite growing up near the beautiful beaches of Puerto Rico and studying visual arts since childhood, here's a quirky twist—I've crafted and designed a surfboard from scratch. Surprisingly, I've never ridden a wave in my life! It seems my artistic journey has taken me to unexpected shores, and the surfboard remains a unique piece of my creative repertoire.**
 
 <h3 align="left">🤝 Connect with me: </h3>
 <p align="center">
