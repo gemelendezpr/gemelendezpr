@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gerard!</h1>
 <h3 align="center">Originally from 🇵🇷, welcome to my programming world!</h3>
 
-- 🚧 I’m currently working on ([JSH-Construction-Corp](https://github.com/gemelendezpr/jsh-construction-corp-client))
+- 🚧 I’m currently working on ([JSH-Construction-Corp](https://github.com/gemelendezpr/jsh-construction-corp-client)) Code Access: Due to privacy concerns, code for this project cannot be shared at this time. However, the completed webpage will be publicly accessible once the website is live.
 
 - 📚 I’m currently learning **SQL and Docker**.
 
