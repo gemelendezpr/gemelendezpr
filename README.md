@@ -5,9 +5,9 @@
 
 - 🚧 I’m currently working on ([JSH-Construction-Corp](https://github.com/gemelendezpr/jsh-construction-corp-client)) Code Access: Due to privacy concerns, code for this project cannot be shared at this time. However, the completed webpage will be publicly accessible once the website is live.
 
-- 📚 I’m currently learning **SQL and Docker**.
+- 📚 Upcoming areas of focus: **Python, SQL and Docker**.
 
-- 👥 I’m looking to collaborate on **open source projects**.
+- 👥 I’m eager to collaborate on **open source projects across diverse fields to apply and expand my software engineering skills**.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gerardomelendezpr/](https://www.linkedin.com/in/gerardomelendezpr/)
 
